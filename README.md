@@ -5,6 +5,9 @@ technique provided it is suited for the variety and volume of data provided.
 The end goal of this competition is to enable the Godrej Aerospace team to produce
 defect-free products every time.
 
+# PROJECT AIM : 
+Our project's aim is to do advanced analytics on welder’s details provided in the dataset and to build a model to predict defects before it occurs as per the input parameters.
+
 # Brief Walkthrough of work done : 
 ●	 Cleaning and Preprocessing the data using necessary techniques. 
 ●	Getting insight from data by doing necessary EDA.
